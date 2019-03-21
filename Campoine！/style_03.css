@@ -1,4 +1,5 @@
 /*预设文本样式*/
+
 body {
     padding: 0%;
     margin-top: 0%;
@@ -62,6 +63,7 @@ p {
 }
 
 /*图片相关*/
+
 .illus {
     text-indent: 0em;
     text-align: center;
@@ -80,9 +82,8 @@ p {
     border-width: 1px;
 }
 
-
-
 /*预设格式相关样式*/
+
 .right {
     text-indent: 0em;
     text-align: right;
@@ -153,8 +154,8 @@ p {
     margin-bottom: 0.5em;
 }
 
-
 /*文字大小*/
+
 .em05 {
     font-size: 0.5em;
 }
@@ -220,6 +221,7 @@ p {
 }
 
 /*预设目录样式*/
+
 .contents {
     text-indent: 0em;
     text-align: left;
@@ -233,6 +235,7 @@ p {
 }
 
 /*图片允许放大*/
+
 /*
 html代码：
 
@@ -268,6 +271,7 @@ sup {
 }
 
 /*额外*/
+
 .em21 {
     font-size: 2.1em;
 }
@@ -353,6 +357,7 @@ sup {
 }
 
 /*字体*/
+
 @font-face {
     font-family: "title";
     src: url("../Fonts/title.ttf");
@@ -426,6 +431,7 @@ sup {
 }
 
 /*以下填写自定义css样式*/
+
 .em105 {
     font-size: 1.05em;
 }
